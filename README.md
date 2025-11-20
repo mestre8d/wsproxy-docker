@@ -1,4 +1,4 @@
-# rAthena - Docker
+# herenow/wsProxy - Docker
 
 A container image that can compile and run the herenow/wsProxy project.
 
